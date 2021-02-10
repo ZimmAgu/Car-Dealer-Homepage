@@ -1,0 +1,33 @@
+
+div#page {
+    border-style: double;
+    padding: 0px 300px 100px 300px;
+   
+}
+
+
+
+
+div#companyLogo {
+    padding-top: 100px;
+    text-align: center;
+}
+
+
+
+ul#options {
+    border-top-style: solid;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+li {
+    display: inline;
+    font-size: 24px;
+    margin: 20px;
+}
