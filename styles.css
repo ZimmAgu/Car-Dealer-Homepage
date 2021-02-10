@@ -1,24 +1,45 @@
 
+
+li {
+    display: inline;
+    font-size: 24px;
+    margin: 20px; 
+}
+
+
+
+
+
 div#page {
     border-style: double;
-    padding: 0px 300px 100px 300px;
+    padding: 100px 300px 100px 250px; 
    
 }
 
 
 
 
-div#companyLogo {
-    padding-top: 100px;
-    text-align: center;
+
+
+
+div#menu {
+    width: 1008px;
 }
 
 
 
-ul#options {
+
+
+
+
+
+
+ul#options { 
     border-top-style: solid;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
     text-align: center;
-    padding-top: 10px;
+    padding: 10px 0px 10px 0px; 
 }
 
 
@@ -26,8 +47,54 @@ ul#options {
 
 
 
-li {
-    display: inline;
-    font-size: 24px;
-    margin: 20px;
+
+div#companyLogo {
+    text-align: center;
+    width: 1008px;
 }
+
+
+
+
+
+
+
+
+
+div#threeLogoDisplay {
+    width: 1100px;
+}
+
+
+
+div#description {
+    width: 1000px;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    border-style: outset;
+}
+
+a:active {
+    border-style: inset;
+}
+
+
+
+
+
+
+
+
+
+
